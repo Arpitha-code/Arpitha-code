@@ -1,9 +1,10 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Arpitha Jagadish👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Gmail Badge](https://img.shields.io/badge/-jagadish.arpitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jagadish.arptiha@gmail.com)](mailto:jagadish.arpitha@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-arpitha-jagadish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitha-jagadish)](www.linkedin.com/in/arpitha-jagadish) 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+
+## I'm a Graduate Student at Illinois Institute of Technology
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
