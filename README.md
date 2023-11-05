@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-arpithajagadish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitha-jagadish/)](https://www.linkedin.com/in/arpitha-jagadish/) 
 
 
-## I'm a Graduate Student at Illinois Institute of Technology
+## 
 
 ### Languages and Tools:
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R/R.png" />
